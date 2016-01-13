@@ -210,6 +210,7 @@ Links to useful code.
 * http://lugolabs.com/flat-slider **jQury UI Slider styling**
 * http://momentjs.com/ **Format Date and Time**
 * http://numeraljs.com/ **Format Numbers**
+* http://featurejs.com/
 
 **Exit Popups**
 * https://github.com/carlsednaoui/ouibounce
