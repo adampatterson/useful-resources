@@ -95,6 +95,7 @@ Links to useful code.
 * http://bevacqua.github.io/dragula/ **Drag and Drop**
 * http://salvattore.com/ **Masonry Alternative**
 * http://iamceege.github.io/tooltipster/ **Tool Tips**
+* http://kushagragour.in/lab/hint/ **Tool Tips**
 * http://dotdotdot.frebsite.nl/ **DotDotDot**
 * https://github.com/jasny/jquery.smartbanner **Smart Banners**
 * https://github.com/devbridge/jQuery-Autocomplete **Autocomplete**
