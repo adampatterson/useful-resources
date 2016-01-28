@@ -83,6 +83,7 @@ Links to useful code.
 * https://github.com/blueimp/Gallery
 * http://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/
 * https://github.com/vvvmax/unitegallery/
+* https://github.com/fengyuanchen/viewerjs
  
 
 **General**
