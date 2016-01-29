@@ -176,6 +176,7 @@ Links to useful code.
 
 * http://refreshless.com/nouislider/
 * http://www.gayadesign.com/diy/queryloader2-preload-your-images-with-ease/
+* https://github.com/milworm/react-progress-2
 * http://xoxco.com/projects/code/breakpoints/
 * https://github.com/gajus/contents#table-of-contents-toc-generator-usage-examples **TOC Generator**
 * https://github.com/FezVrasta/bootstrap-material-design
