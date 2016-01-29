@@ -79,6 +79,7 @@ Links to useful code.
 * https://github.com/ericleong/zoomwall.js
 * http://flickity.metafizzy.co/
 * http://responsiveslides.com/
+* https://github.com/djyde/PureSlider
 * http://photoswipe.com/
 * https://github.com/blueimp/Gallery
 * http://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/
