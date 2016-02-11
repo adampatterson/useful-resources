@@ -188,6 +188,7 @@ Links to useful code.
 * http://csouza.me/jQuery-Simple-Timer/ **Count down timer**
 * https://inorganik.github.io/countUp.js/ **Number counting**
 * http://flipclockjs.com/ **Flip Clock**
+* https://github.com/waldobronchart/FlipCounter **Flip Numbers**
 * http://alvarotrigo.com/pagePiling/ **Single page Scroll**
 * https://github.com/cmaddux/littlebox **Favicon**
 * https://select2.github.io/ **Select Menus**
