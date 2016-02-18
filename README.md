@@ -96,6 +96,7 @@ Links to useful code.
 * https://github.com/atom/electron **Build cross platform desktop apps with web technologies**
 * http://bevacqua.github.io/dragula/ **Drag and Drop**
 * http://salvattore.com/ **Masonry Alternative**
+* https://github.com/callmecavs/bricks.js **Masonry Alternative**
 * http://iamceege.github.io/tooltipster/ **Tool Tips**
 * http://kushagragour.in/lab/hint/ **Tool Tips**
 * http://dotdotdot.frebsite.nl/ **DotDotDot**
