@@ -218,6 +218,7 @@ Links to useful code.
 * http://momentjs.com/ **Format Date and Time**
 * http://numeraljs.com/ **Format Numbers**
 * http://featurejs.com/
+* https://jonsuh.com/hamburgers/ **Hamburger Menu**
 
 **Exit Popups**
 * https://github.com/carlsednaoui/ouibounce
