@@ -238,6 +238,7 @@ Links to useful code.
 * https://github.com/FrozenNode/Laravel-Administrator
 * https://github.com/artesaos/seotools
 * https://github.com/laraedit/laraedit-docker
+* https://github.com/kraken-io/kraken-php
 
 ### Notes and Reading
 * https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
