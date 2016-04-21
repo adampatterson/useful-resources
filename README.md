@@ -240,6 +240,8 @@ Links to useful code.
 * https://github.com/artesaos/seotools
 * https://github.com/laraedit/laraedit-docker
 * https://github.com/kraken-io/kraken-php
+* https://github.com/jenssegers/agent
+* https://github.com/dwightwatson/sitemap
 
 ### Notes and Reading
 * https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
