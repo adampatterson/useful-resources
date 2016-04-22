@@ -199,6 +199,7 @@ Links to useful code.
 * http://tympanus.net/Development/TextInputEffects/index2.html **Form input**
 * https://github.com/mailcheck/mailcheck **Email Checking**
 * http://callmecavs.github.io/layzr.js/ **Lazy Load**
+* http://luis-almeida.github.io/unveil/ **Lazy Load**
 * http://sharebutton.net/ **Social Sharing**
 * https://github.com/zeusdeux/isInViewport
 * http://ashleydw.github.io/lightbox/ **Bootstrap Modals**
