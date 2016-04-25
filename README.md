@@ -243,6 +243,7 @@ Links to useful code.
 * https://github.com/kraken-io/kraken-php
 * https://github.com/jenssegers/agent
 * https://github.com/dwightwatson/sitemap
+* https://murze.be/2016/04/easily-integrate-mailchimp-laravel-5/
 
 ### Notes and Reading
 * https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
