@@ -221,6 +221,7 @@ Links to useful code.
 * http://numeraljs.com/ **Format Numbers**
 * http://featurejs.com/
 * https://jonsuh.com/hamburgers/ **Hamburger Menu**
+* https://github.com/alextaujenis/jquery-stuck **Sticky Scrolling Stuff**
 
 **Exit Popups**
 * https://github.com/carlsednaoui/ouibounce
