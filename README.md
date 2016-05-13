@@ -232,6 +232,7 @@ Links to useful code.
 
 * http://bower.io/docs/creating-packages/
 * http://sassdoc.com/ **Style Documentations**
+* https://github.com/kraken-io/gulp-kraken
 
 ### Laravel Packages to checkout
 * https://github.com/dmyers/laravel-pages
