@@ -143,6 +143,7 @@ Links to useful code.
 * https://github.com/Yalantis/FoldingTabBar.iOS
 * https://github.com/flyfei/CustomMenu
 * http://codyhouse.co/demo/responsive-sidebar-navigation/
+* http://github.hubspot.com/shepherd/docs/welcome/ **Guided Tour**
 
 
 **Modal**
