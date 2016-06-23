@@ -223,6 +223,7 @@ Links to useful code.
 * http://featurejs.com/
 * https://jonsuh.com/hamburgers/ **Hamburger Menu**
 * https://github.com/alextaujenis/jquery-stuck **Sticky Scrolling Stuff**
+* https://github.com/algolia/places **Address Helpers**
 
 **Exit Popups**
 * https://github.com/carlsednaoui/ouibounce
