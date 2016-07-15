@@ -40,6 +40,9 @@ Links to useful code.
 
 * http://www.jquerybyexample.net/2012/06/jquery-cookies-get-set-and-delete.html?m=1
 
+**Editor**
+
+* https://github.com/ianstormtaylor/slate/
 
 **Effects**
 
