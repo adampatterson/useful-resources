@@ -251,6 +251,7 @@ Links to useful code.
 * https://github.com/jenssegers/agent
 * https://github.com/dwightwatson/sitemap
 * https://murze.be/2016/04/easily-integrate-mailchimp-laravel-5/
+* https://github.com/davidpiesse/facebook_messenger_php
 
 ### Notes and Reading
 * https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
