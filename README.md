@@ -43,6 +43,7 @@ Links to useful code.
 **Editor**
 
 * https://github.com/ianstormtaylor/slate/
+* https://github.com/facebook/draft-js
 
 **Effects**
 
