@@ -229,6 +229,7 @@ Links to useful code.
 * https://jonsuh.com/hamburgers/ **Hamburger Menu**
 * https://github.com/alextaujenis/jquery-stuck **Sticky Scrolling Stuff**
 * https://github.com/algolia/places **Address Helpers**
+* https://dollarshaveclub.github.io/reframe.js/ **Responsive**
 
 **Exit Popups**
 * https://github.com/carlsednaoui/ouibounce
