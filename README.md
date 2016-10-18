@@ -34,6 +34,7 @@ Links to useful code.
 * http://getwebplate.com/plugins/flickerplate
 * http://pxgrid.github.io/js-flipsnap/ **Touch**
 * http://kenwheeler.github.io/slick/
+* http://meandmax.github.io/lory/ **Touch**
 
 
 **Cookies**
