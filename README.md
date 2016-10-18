@@ -230,6 +230,7 @@ Links to useful code.
 * https://github.com/alextaujenis/jquery-stuck **Sticky Scrolling Stuff**
 * https://github.com/algolia/places **Address Helpers**
 * https://dollarshaveclub.github.io/reframe.js/ **Responsive**
+* https://kimmobrunfeldt.github.io/progressbar.js/ **Progress Bar**
 
 **Exit Popups**
 * https://github.com/carlsednaoui/ouibounce
