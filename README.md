@@ -261,6 +261,9 @@ Links to useful code.
 ### CMS's
 * http://canvas.toddaustin.io/
 
+### Services
+* https://adodson.com/hello.js/#features **oAuth
+
 ### Notes and Reading
 * https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
 * https://developers.google.com/speed/pagespeed/module/?csw=1
