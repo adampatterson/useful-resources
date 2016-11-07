@@ -257,6 +257,7 @@ Links to useful code.
 * https://murze.be/2016/04/easily-integrate-mailchimp-laravel-5/
 * https://github.com/davidpiesse/facebook_messenger_php
 * https://github.com/spatie/laravel-analytics
+* https://github.com/the-control-group/voyager **Admin**
 
 ### CMS's
 * http://canvas.toddaustin.io/
