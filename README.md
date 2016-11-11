@@ -263,7 +263,12 @@ Links to useful code.
 * http://canvas.toddaustin.io/
 
 ### Services
-* https://adodson.com/hello.js/#features **oAuth
+* https://adodson.com/hello.js/#features **oAuth**
+
+
+### WordPress Plugins
+* https://github.com/shield-9/opcache-dashboard
+
 
 ### Notes and Reading
 * https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
