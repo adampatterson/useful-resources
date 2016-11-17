@@ -52,6 +52,7 @@ Links to useful code.
 * https://github.com/ed-lea/jquery-collagePlus
 * http://luis-almeida.github.io/unveil/
 * https://github.com/kswedberg/jquery-smooth-scroll
+* http://www.viewdesic.com/viewscroller/ **Viewport Scroller**
 * http://markdalgleish.com/projects/stellar.js/docs/ **Paralax**
 * http://mynameismatthieu.com/WOW/docs.html **Reveal CSS Animati* ons**
 * http://tympanus.net/Development/HeaderEffects/
@@ -180,6 +181,7 @@ Links to useful code.
 
 * http://fittextjs.com/
 * http://brick.im/fonts/
+* https://dollarshaveclub.github.io/shave/ **Truncate text**
 
 **Utility**
 
