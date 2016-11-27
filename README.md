@@ -114,7 +114,7 @@ Links to useful code.
 * http://googlesamples.github.io/web-fundamentals/samples/input/form/order.html **Auto complete profiles**
 * https://github.com/cowboy/jquery-tiny-pubsub **Pub/Sub**
 * https://codyhouse.co/gem/products-comparison-table/
-
+* http://code.octopuscreative.com/fancyselect/ **Fancy Select**
 
 **Icons/Fonts**
 
