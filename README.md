@@ -233,6 +233,7 @@ Links to useful code.
 * https://github.com/algolia/places **Address Helpers**
 * https://dollarshaveclub.github.io/reframe.js/ **Responsive**
 * https://kimmobrunfeldt.github.io/progressbar.js/ **Progress Bar**
+* http://brm.io/jquery-match-height/ **Match Height**
 
 **Exit Popups**
 * https://github.com/carlsednaoui/ouibounce
