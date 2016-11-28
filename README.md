@@ -261,6 +261,7 @@ Links to useful code.
 * https://github.com/davidpiesse/facebook_messenger_php
 * https://github.com/spatie/laravel-analytics
 * https://github.com/the-control-group/voyager **Admin**
+* https://github.com/SammyK/LaravelFacebookSdk **Facebook SDK**
 
 ### CMS's
 * http://canvas.toddaustin.io/
