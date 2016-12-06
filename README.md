@@ -92,6 +92,8 @@ Links to useful code.
 * http://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/
 * https://github.com/vvvmax/unitegallery/
 * https://github.com/fengyuanchen/viewerjs
+* http://ashleydw.github.io/lightbox/ **Bootstrap Modals**
+* http://www.frescojs.com/ **LightBox**
  
 
 **General**
@@ -210,7 +212,6 @@ Links to useful code.
 * http://luis-almeida.github.io/unveil/ **Lazy Load**
 * http://sharebutton.net/ **Social Sharing**
 * https://github.com/zeusdeux/isInViewport
-* http://ashleydw.github.io/lightbox/ **Bootstrap Modals**
 * http://zenorocha.github.io/clipboard.js/ **Clipboard**
 * https://github.com/gajus/contents#examples **T.O.C.**
 * http://benalman.com/projects/jquery-hashchange-plugin/
