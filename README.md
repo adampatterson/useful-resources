@@ -245,6 +245,7 @@ Links to useful code.
 
 * http://bower.io/docs/creating-packages/
 * http://sassdoc.com/ **Style Documentations**
+* https://github.com/lord/slate **Documentation**
 * https://github.com/kraken-io/gulp-kraken
 
 ### Laravel Packages to checkout
