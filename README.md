@@ -274,6 +274,7 @@ Links to useful code.
 
 ### WordPress Plugins
 * https://github.com/shield-9/opcache-dashboard
+* https://github.com/jonathanbardo/WP-Image-Hotspot
 
 
 ### Notes and Reading
