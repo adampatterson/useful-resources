@@ -179,6 +179,12 @@ Links to useful code.
 * https://mixitup.kunkalabs.com/
 
 
+**Styles and UI**
+
+* http://materializecss.com/
+* http://blueprintjs.com/
+* http://www.material-ui.com/
+
 **Type**
 
 * http://fittextjs.com/
@@ -298,13 +304,11 @@ Links to useful code.
 * https://deliciousbrains.com/react-laravel-lumen-company-status-board/
 * http://techblog.netflix.com/2015/01/netflix-likes-react.html
 * http://techblog.netflix.com/2014/08/scaling-ab-testing-on-netflixcom-with_18.html
-
 * https://blog.algolia.com/how-we-unit-test-react-components-using-expect-jsx/
 * https://github.com/philix/jsx-requirejs-plugin
 * http://matthewmachuga.com/blog/2015/setting-up-a-quick-dev-environment-for-react-es2015-babel-and-webpack.html
 * Look into site notifications, can we push a notification to users who don't have the page open?
 * https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
-
 * https://github.com/GoogleChrome/sw-precache
 * https://github.com/GoogleChrome/sw-toolbox
 * https://www.code-labs.io/codelabs/sw-precache/index.html?index=..%2F..%2Fchrome-dev-summit&viewga=UA-41980257-1#1
