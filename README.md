@@ -1,12 +1,12 @@
 Links to useful code.
 ==========
 
-**Analytics**
+### Analytics
 
 * https://github.com/CardinalPath/gas - GA Events
 
 
-**Animation**
+### Animation
 
 * http://git.blivesta.com/animsition/
 * http://daneden.github.io/animate.css/
@@ -19,7 +19,7 @@ Links to useful code.
 * http://ricostacruz.com/jquery.transit/
 * https://github.com/Popmotion/popmotion
 
-**Audio/Video**
+### Audio/Video
 
 * http://amazingaudioplayer.com/
 * http://jplayer.org/latest/demos/
@@ -27,7 +27,7 @@ Links to useful code.
 * http://fitvidsjs.com/
 
 
-**Carousel**
+### Carousel
 
 * http://www.woothemes.com/flexslider/
 * http://www.owlcarousel.owlgraphic.com/
@@ -37,16 +37,16 @@ Links to useful code.
 * http://meandmax.github.io/lory/ **Touch**
 
 
-**Cookies**
+### Cookies
 
 * http://www.jquerybyexample.net/2012/06/jquery-cookies-get-set-and-delete.html?m=1
 
-**Editor**
+### Editor
 
 * https://github.com/ianstormtaylor/slate/
 * https://github.com/facebook/draft-js
 
-**Effects**
+### Effects
 
 * http://github.hubspot.com/odometer/
 * https://github.com/ed-lea/jquery-collagePlus
@@ -67,7 +67,7 @@ Links to useful code.
 * http://abpetkov.github.io/switchery/ **IOS Switches**
 
 
-**Forms**
+### Forms
 
 * http://happyjs.com/
 * https://github.com/jzaefferer/jquery-validation
@@ -77,7 +77,7 @@ Links to useful code.
 * https://github.com/medius/utm_form **Lead Forms**
 
 
-**Gallery**
+### Gallery
 
 * http://codyhouse.co/demo/expandable-image-gallery/index.html#0
 * https://0.s3.envato.com/files/41640075/index.html
@@ -96,7 +96,7 @@ Links to useful code.
 * http://www.frescojs.com/ **LightBox**
  
 
-**General**
+### General
 
 * http://imakewebthings.com/jquery-waypoints/
 * http://kiro.me/projects/fuse.html **Fuzzy Search**
@@ -118,7 +118,7 @@ Links to useful code.
 * https://codyhouse.co/gem/products-comparison-table/
 * http://code.octopuscreative.com/fancyselect/ **Fancy Select**
 
-**Icons/Fonts**
+### Icons/Fonts
 
 * http://uifest.com/product/social-icons-set
 * http://paymentfont.io/
@@ -126,17 +126,17 @@ Links to useful code.
 * https://simpleicons.org/
 
 
-**Image Sliders**
+### Image Sliders
 
 * http://dimsemenov.com/plugins/royal-slider/templates/
 
 
-**Javascript Event**
+### Javascript Event
 
 * https://github.com/melanke/Watch.JS/
 
 
-**Menu**
+### Menu
 
 * http://geedmo.github.io/yamm3/
 * http://codepen.io/wallaceerick/pen/ctsCz/
@@ -154,14 +154,14 @@ Links to useful code.
 * http://github.hubspot.com/shepherd/docs/welcome/ **Guided Tour**
 
 
-**Modal**
+### Modal
 
 * http://dimsemenov.com/plugins/magnific-popup/
 * http://noelboss.github.io/featherlight/
 * http://fancybox.net/
 
 
-**MVC Stuff**
+### MVC Stuff
 
 * https://lodash.com **Utility**
 * http://jsblocks.com
@@ -169,29 +169,30 @@ Links to useful code.
 * https://facebook.github.io/react/
 * https://github.com/VerbalExpressions/JSVerbalExpressions
 
-**Notifications**
+### Notifications
 
 * http://codeseven.github.io/toastr/ **Will be in Bootstrap 4**
 
 
-**Sorting**
+### Sorting
 
 * https://mixitup.kunkalabs.com/
 
 
-**Styles and UI**
+### Styles and UI
 
 * http://materializecss.com/
 * http://blueprintjs.com/
 * http://www.material-ui.com/
+* https://www.polymer-project.org
 
-**Type**
+### Type
 
 * http://fittextjs.com/
 * http://brick.im/fonts/
 * https://dollarshaveclub.github.io/shave/ **Truncate text**
 
-**Utility**
+### Utility
 
 * http://refreshless.com/nouislider/
 * http://www.gayadesign.com/diy/queryloader2-preload-your-images-with-ease/
@@ -242,19 +243,19 @@ Links to useful code.
 * https://kimmobrunfeldt.github.io/progressbar.js/ **Progress Bar**
 * http://brm.io/jquery-match-height/ **Match Height**
 
-**Exit Popups**
+### Exit Popups
 * https://github.com/carlsednaoui/ouibounce
 * https://github.com/beeker1121/exit-intent-popup
 
 
-**Work Flow**
+### Work Flow
 
 * http://bower.io/docs/creating-packages/
 * http://sassdoc.com/ **Style Documentations**
 * https://github.com/lord/slate **Documentation**
 * https://github.com/kraken-io/gulp-kraken
 
-### Laravel Packages to checkout
+## Laravel Packages to checkout
 * https://github.com/dmyers/laravel-pages
 * https://github.com/austinkregel/Menu
 * https://github.com/serverfireteam/panel
@@ -271,19 +272,19 @@ Links to useful code.
 * https://github.com/the-control-group/voyager **Admin**
 * https://github.com/SammyK/LaravelFacebookSdk **Facebook SDK**
 
-### CMS's
+## CMS's
 * http://canvas.toddaustin.io/
 
-### Services
+## Services
 * https://adodson.com/hello.js/#features **oAuth**
 
 
-### WordPress Plugins
+## WordPress Plugins
 * https://github.com/shield-9/opcache-dashboard
 * https://github.com/jonathanbardo/WP-Image-Hotspot
 
 
-### Notes and Reading
+## Notes and Reading
 * https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
 * https://developers.google.com/speed/pagespeed/module/?csw=1
 * https://css-tricks.com/authoring-critical-fold-css/
