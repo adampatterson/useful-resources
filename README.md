@@ -242,6 +242,7 @@ Links to useful code.
 * https://dollarshaveclub.github.io/reframe.js/ **Responsive**
 * https://kimmobrunfeldt.github.io/progressbar.js/ **Progress Bar**
 * http://brm.io/jquery-match-height/ **Match Height**
+* https://github.com/christinecha/react-redux-sass-boilerplate
 
 ### Exit Popups
 * https://github.com/carlsednaoui/ouibounce
