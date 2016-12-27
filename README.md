@@ -285,6 +285,8 @@ Links to useful code.
 * https://github.com/jonathanbardo/WP-Image-Hotspot
 * https://facetwp.com/ **Premium Search**
 * https://www.admincolumns.com/ **Premium Admin UI**
+* https://github.com/airesvsg/wp-rest-api-cache 
+* https://github.com/airesvsg/acf-to-rest-api
 
 
 ## Notes and Reading
