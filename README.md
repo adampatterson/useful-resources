@@ -283,6 +283,8 @@ Links to useful code.
 ## WordPress Plugins
 * https://github.com/shield-9/opcache-dashboard
 * https://github.com/jonathanbardo/WP-Image-Hotspot
+* https://facetwp.com/ **Premium Search**
+* https://www.admincolumns.com/ **Premium Admin UI**
 
 
 ## Notes and Reading
