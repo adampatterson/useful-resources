@@ -185,6 +185,7 @@ Links to useful code.
 * http://blueprintjs.com/
 * http://www.material-ui.com/
 * https://www.polymer-project.org
+* https://github.com/Stryzhevskyi/rangeSlider **Range Slider**
 
 ### Type
 
