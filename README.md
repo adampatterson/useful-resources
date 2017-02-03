@@ -168,6 +168,7 @@ Links to useful code.
 * https://angular.io
 * https://facebook.github.io/react/
 * https://github.com/VerbalExpressions/JSVerbalExpressions
+* https://preactjs.com/ **Faster REACT**
 
 ### Notifications
 
