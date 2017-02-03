@@ -328,3 +328,9 @@ Links to useful code.
 
 ## Applications
 * https://local.getflywheel.com/
+
+## PHP Scripts
+* https://github.com/avalanche123/Imagine
+* https://github.com/jwage/purl
+* https://github.com/justinwalsh/daux.io
+* https://github.com/sesser/Instaphp
