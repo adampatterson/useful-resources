@@ -173,6 +173,7 @@ Links to useful code.
 ### Notifications
 
 * http://codeseven.github.io/toastr/ **Will be in Bootstrap 4**
+* http://carlosroso.com/notyf/
 
 
 ### Sorting
