@@ -66,6 +66,9 @@ Links to useful code.
 * https://codyhouse.co/demo/page-scroll-effects/scaledown.html
 * http://abpetkov.github.io/switchery/ **IOS Switches**
 
+### Email Design
+
+* https://mjml.io/
 
 ### Forms
 
