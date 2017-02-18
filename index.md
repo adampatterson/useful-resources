@@ -45,6 +45,7 @@ Links to useful code.
 
 * https://github.com/ianstormtaylor/slate/
 * https://github.com/facebook/draft-js
+* https://microsoft.github.io/monaco-editor/ **Code**
 
 ### Effects
 
@@ -107,6 +108,7 @@ Links to useful code.
 * http://bevacqua.github.io/dragula/ **Drag and Drop**
 * http://salvattore.com/ **Masonry Alternative**
 * https://github.com/callmecavs/bricks.js **Masonry Alternative**
+* https://haltu.github.io/muuri/ **Responsive, sortable, filterable and draggable grid layouts / Masonry**
 * http://iamceege.github.io/tooltipster/ **Tool Tips**
 * http://kushagragour.in/lab/hint/ **Tool Tips**
 * http://dotdotdot.frebsite.nl/ **DotDotDot**
@@ -118,6 +120,7 @@ Links to useful code.
 * https://github.com/cowboy/jquery-tiny-pubsub **Pub/Sub**
 * https://codyhouse.co/gem/products-comparison-table/
 * http://code.octopuscreative.com/fancyselect/ **Fancy Select**
+* https://github.com/localForage/localForage **Offline storage**
 
 ### Icons/Fonts
 
@@ -186,6 +189,7 @@ Links to useful code.
 * http://materializecss.com/
 * http://blueprintjs.com/
 * http://www.material-ui.com/
+* https://github.com/JosephusPaye/Keen-UI
 * https://www.polymer-project.org
 
 ### Type
@@ -231,6 +235,7 @@ Links to useful code.
 * http://noraesae.github.io/perfect-scrollbar/ **Scroll Bars**
 * https://github.com/typekit/webfontloader **Web Font Loader**
 * http://www.quasimondo.com/StackBlurForCanvas/StackBlurDemo.html **Canvas Image Blur**
+* http://offcanvas.vasilis.co/ **Off Canvas**
 * http://codepen.io/jmperez/pen/yYjPER **Medium Image Blur**
 * https://jaredreich.com/projects/notie.js/ **Notifications**
 * http://timekit.io/ **Scheduling**
