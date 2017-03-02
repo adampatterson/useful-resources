@@ -280,6 +280,7 @@ Links to useful code.
 * https://github.com/spatie/laravel-analytics
 * https://github.com/the-control-group/voyager **Admin**
 * https://github.com/SammyK/LaravelFacebookSdk **Facebook SDK**
+* https://github.com/ReactiveX/RxPHP 
 
 ## CMS's
 * http://canvas.toddaustin.io/
