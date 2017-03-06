@@ -138,6 +138,7 @@ Links to useful code.
 
 * https://github.com/melanke/Watch.JS/
 * https://github.com/kriskowal/q **Promice Library**
+* https://github.com/manuelbieh/Geolib **GeoLib**
 
 
 ### Menu
