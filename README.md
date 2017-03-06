@@ -134,9 +134,10 @@ Links to useful code.
 * http://dimsemenov.com/plugins/royal-slider/templates/
 
 
-### Javascript Event
+### Javascript
 
 * https://github.com/melanke/Watch.JS/
+* https://github.com/kriskowal/q **Promice Library**
 
 
 ### Menu
