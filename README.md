@@ -45,6 +45,7 @@ Links to useful code.
 
 * https://github.com/ianstormtaylor/slate/
 * https://github.com/facebook/draft-js
+* https://microsoft.github.io/monaco-editor/ **Code**
 
 ### Effects
 
@@ -97,6 +98,7 @@ Links to useful code.
 * https://github.com/fengyuanchen/viewerjs
 * http://ashleydw.github.io/lightbox/ **Bootstrap Modals**
 * http://www.frescojs.com/ **LightBox**
+* https://feimosi.github.io/baguetteBox.js/ **LightBox**
  
 
 ### General
@@ -109,6 +111,7 @@ Links to useful code.
 * http://bevacqua.github.io/dragula/ **Drag and Drop**
 * http://salvattore.com/ **Masonry Alternative**
 * https://github.com/callmecavs/bricks.js **Masonry Alternative**
+* https://haltu.github.io/muuri/ **Responsive, sortable, filterable and draggable grid layouts / Masonry**
 * http://iamceege.github.io/tooltipster/ **Tool Tips**
 * http://kushagragour.in/lab/hint/ **Tool Tips**
 * http://dotdotdot.frebsite.nl/ **DotDotDot**
@@ -120,6 +123,7 @@ Links to useful code.
 * https://github.com/cowboy/jquery-tiny-pubsub **Pub/Sub**
 * https://codyhouse.co/gem/products-comparison-table/
 * http://code.octopuscreative.com/fancyselect/ **Fancy Select**
+* https://github.com/localForage/localForage **Offline storage**
 
 ### Icons/Fonts
 
@@ -178,6 +182,7 @@ Links to useful code.
 ### Notifications
 
 * http://codeseven.github.io/toastr/ **Will be in Bootstrap 4**
+* http://carlosroso.com/notyf/
 
 
 ### Sorting
@@ -190,6 +195,7 @@ Links to useful code.
 * http://materializecss.com/
 * http://blueprintjs.com/
 * http://www.material-ui.com/
+* https://github.com/JosephusPaye/Keen-UI
 * https://www.polymer-project.org
 * https://github.com/Stryzhevskyi/rangeSlider **Range Slider**
 
@@ -236,6 +242,7 @@ Links to useful code.
 * http://noraesae.github.io/perfect-scrollbar/ **Scroll Bars**
 * https://github.com/typekit/webfontloader **Web Font Loader**
 * http://www.quasimondo.com/StackBlurForCanvas/StackBlurDemo.html **Canvas Image Blur**
+* http://offcanvas.vasilis.co/ **Off Canvas**
 * http://codepen.io/jmperez/pen/yYjPER **Medium Image Blur**
 * https://jaredreich.com/projects/notie.js/ **Notifications**
 * http://timekit.io/ **Scheduling**
@@ -250,6 +257,7 @@ Links to useful code.
 * https://kimmobrunfeldt.github.io/progressbar.js/ **Progress Bar**
 * http://brm.io/jquery-match-height/ **Match Height**
 * https://github.com/christinecha/react-redux-sass-boilerplate
+* https://github.com/prasmussen/gdrive **Command Line Google Drive**
 
 ### Exit Popups
 * https://github.com/carlsednaoui/ouibounce
