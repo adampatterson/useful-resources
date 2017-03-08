@@ -41,7 +41,7 @@ Links to useful code.
 
 * http://www.jquerybyexample.net/2012/06/jquery-cookies-get-set-and-delete.html?m=1
 
-### Css / Flexbox
+### Css / Flex-box
 
 * http://bulma.io/
 
@@ -212,7 +212,105 @@ Links to useful code.
 * http://brick.im/fonts/
 * https://dollarshaveclub.github.io/shave/ **Truncate text**
 
-### Utility
+### Exit Popups
+* https://github.com/carlsednaoui/ouibounce
+* https://github.com/beeker1121/exit-intent-popup
+
+### Work Flow
+
+* http://bower.io/docs/creating-packages/
+* http://sassdoc.com/ **Style Documentations**
+* https://github.com/lord/slate **Documentation**
+* https://github.com/kraken-io/gulp-kraken
+
+
+## Applications
+
+* https://local.getflywheel.com/
+
+## CMS's
+
+* http://canvas.toddaustin.io/
+
+## Education
+
+* https://gettinggit.com/ **Git**
+* https://laracasts.com/ **Laravel / Dev stack**
+* https://serversforhackers.com/ **Ops**
+
+## Services
+
+* https://adodson.com/hello.js/#features **oAuth**
+
+## Laravel Packages to checkout
+* https://github.com/dmyers/laravel-pages
+* https://github.com/austinkregel/Menu
+* https://github.com/serverfireteam/panel
+* https://spatie.be/opensource/laravel
+* https://github.com/FrozenNode/Laravel-Administrator
+* https://github.com/artesaos/seotools
+* https://github.com/laraedit/laraedit-docker
+* https://github.com/kraken-io/kraken-php
+* https://github.com/jenssegers/agent
+* https://github.com/dwightwatson/sitemap
+* https://murze.be/2016/04/easily-integrate-mailchimp-laravel-5/
+* https://github.com/davidpiesse/facebook_messenger_php
+* https://github.com/spatie/laravel-analytics
+* https://github.com/the-control-group/voyager **Admin**
+* https://github.com/SammyK/LaravelFacebookSdk **Facebook SDK**
+* https://github.com/artesaos/defender
+
+## Notes and Reading
+
+* https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
+* https://developers.google.com/speed/pagespeed/module/?csw=1
+* https://css-tricks.com/authoring-critical-fold-css/
+* https://developer.mozilla.org/en-US/docs/Web/API/History_API
+* http://morgancarter.com.au/design-solutions/which-input-when/
+* https://facebook.github.io/flux/docs/todo-list.html
+* https://medium.com/@rolfvandekrol/lazy-loading-react-components-using-requirejs-and-flux-d1f5b01e501f
+* http://getfishtank.ca/blog/how-to-use-bootstrap-3-with-requirejs
+* http://www.gocolumbiafiat.com/showroom/models?make=Fiat
+* http://www.gocolumbiafiat.com/showroom/ajax/2014/FIAT/500L/
+* https://facebook.github.io/react/tips/initial-ajax.html
+* http://requirejs.org/docs/whyamd.html
+* http://stackoverflow.com/questions/29935827/making-restful-api-call-from-react-js
+* http://dojotoolkit.org/
+* https://developer.chrome.com/multidevice/android/installtohomescreen
+* http://www.html5rocks.com/en/tutorials/service-worker/introduction/
+* https://developer.chrome.com/extensions/manifest
+* https://deliciousbrains.com/react-laravel-lumen-company-status-board/
+* http://techblog.netflix.com/2015/01/netflix-likes-react.html
+* http://techblog.netflix.com/2014/08/scaling-ab-testing-on-netflixcom-with_18.html
+* https://blog.algolia.com/how-we-unit-test-react-components-using-expect-jsx/
+* https://github.com/philix/jsx-requirejs-plugin
+* http://matthewmachuga.com/blog/2015/setting-up-a-quick-dev-environment-for-react-es2015-babel-and-webpack.html
+* Look into site notifications, can we push a notification to users who don't have the page open?
+* https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+* https://github.com/GoogleChrome/sw-precache
+* https://github.com/GoogleChrome/sw-toolbox
+* https://www.code-labs.io/codelabs/sw-precache/index.html?index=..%2F..%2Fchrome-dev-summit&viewga=UA-41980257-1#1
+* https://github.com/ampproject/amphtml/blob/master/docs/create_page.md
+* https://github.com/ampproject/amphtml
+* http://www.virtuosoft.eu/code/bootstrap-autohidingnavbar/
+
+## PHP Scripts
+
+* https://github.com/avalanche123/Imagine
+* https://github.com/jwage/purl
+* https://github.com/justinwalsh/daux.io
+* https://github.com/sesser/Instaphp
+
+## WordPress Plugins
+
+* https://github.com/shield-9/opcache-dashboard
+* https://github.com/jonathanbardo/WP-Image-Hotspot
+* https://facetwp.com/ **Premium Search**
+* https://www.admincolumns.com/ **Premium Admin UI**
+* https://github.com/airesvsg/wp-rest-api-cache 
+* https://github.com/airesvsg/acf-to-rest-api
+
+## Utility
 
 * http://refreshless.com/nouislider/
 * http://www.gayadesign.com/diy/queryloader2-preload-your-images-with-ease/
@@ -267,99 +365,3 @@ Links to useful code.
 * https://github.com/prasmussen/gdrive **Command Line Google Drive**
 * https://github.com/paulirish/git-open **Opens Git URL in the browser from the Command line**
 
-### Exit Popups
-* https://github.com/carlsednaoui/ouibounce
-* https://github.com/beeker1121/exit-intent-popup
-
-
-### Work Flow
-
-* http://bower.io/docs/creating-packages/
-* http://sassdoc.com/ **Style Documentations**
-* https://github.com/lord/slate **Documentation**
-* https://github.com/kraken-io/gulp-kraken
-
-## Laravel Packages to checkout
-* https://github.com/dmyers/laravel-pages
-* https://github.com/austinkregel/Menu
-* https://github.com/serverfireteam/panel
-* https://spatie.be/opensource/laravel
-* https://github.com/FrozenNode/Laravel-Administrator
-* https://github.com/artesaos/seotools
-* https://github.com/laraedit/laraedit-docker
-* https://github.com/kraken-io/kraken-php
-* https://github.com/jenssegers/agent
-* https://github.com/dwightwatson/sitemap
-* https://murze.be/2016/04/easily-integrate-mailchimp-laravel-5/
-* https://github.com/davidpiesse/facebook_messenger_php
-* https://github.com/spatie/laravel-analytics
-* https://github.com/the-control-group/voyager **Admin**
-* https://github.com/SammyK/LaravelFacebookSdk **Facebook SDK**
-* https://github.com/artesaos/defender
-
-## CMS's
-* http://canvas.toddaustin.io/
-
-## Services
-* https://adodson.com/hello.js/#features **oAuth**
-
-
-## WordPress Plugins
-* https://github.com/shield-9/opcache-dashboard
-* https://github.com/jonathanbardo/WP-Image-Hotspot
-* https://facetwp.com/ **Premium Search**
-* https://www.admincolumns.com/ **Premium Admin UI**
-* https://github.com/airesvsg/wp-rest-api-cache 
-* https://github.com/airesvsg/acf-to-rest-api
-
-
-## Notes and Reading
-* https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
-* https://developers.google.com/speed/pagespeed/module/?csw=1
-* https://css-tricks.com/authoring-critical-fold-css/
-* https://developer.mozilla.org/en-US/docs/Web/API/History_API
-* http://morgancarter.com.au/design-solutions/which-input-when/
-* https://facebook.github.io/flux/docs/todo-list.html
-* https://medium.com/@rolfvandekrol/lazy-loading-react-components-using-requirejs-and-flux-d1f5b01e501f
-* http://getfishtank.ca/blog/how-to-use-bootstrap-3-with-requirejs
-* http://www.gocolumbiafiat.com/showroom/models?make=Fiat
-* http://www.gocolumbiafiat.com/showroom/ajax/2014/FIAT/500L/
-* https://facebook.github.io/react/tips/initial-ajax.html
-* http://requirejs.org/docs/whyamd.html
-* http://stackoverflow.com/questions/29935827/making-restful-api-call-from-react-js
-* http://dojotoolkit.org/
-* https://developer.chrome.com/multidevice/android/installtohomescreen
-* http://www.html5rocks.com/en/tutorials/service-worker/introduction/
-* https://developer.chrome.com/extensions/manifest
-* https://deliciousbrains.com/react-laravel-lumen-company-status-board/
-* http://techblog.netflix.com/2015/01/netflix-likes-react.html
-* http://techblog.netflix.com/2014/08/scaling-ab-testing-on-netflixcom-with_18.html
-* https://blog.algolia.com/how-we-unit-test-react-components-using-expect-jsx/
-* https://github.com/philix/jsx-requirejs-plugin
-* http://matthewmachuga.com/blog/2015/setting-up-a-quick-dev-environment-for-react-es2015-babel-and-webpack.html
-* Look into site notifications, can we push a notification to users who don't have the page open?
-* https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
-* https://github.com/GoogleChrome/sw-precache
-* https://github.com/GoogleChrome/sw-toolbox
-* https://www.code-labs.io/codelabs/sw-precache/index.html?index=..%2F..%2Fchrome-dev-summit&viewga=UA-41980257-1#1
-* https://github.com/ampproject/amphtml/blob/master/docs/create_page.md
-* https://github.com/ampproject/amphtml
-* http://www.virtuosoft.eu/code/bootstrap-autohidingnavbar/
-
-
-## Applications
-
-* https://local.getflywheel.com/
-
-## PHP Scripts
-
-* https://github.com/avalanche123/Imagine
-* https://github.com/jwage/purl
-* https://github.com/justinwalsh/daux.io
-* https://github.com/sesser/Instaphp
-
-## Education
-
-* https://gettinggit.com/ **Git**
-* https://laracasts.com/ **Laravel / Dev stack**
-* https://serversforhackers.com/ **Ops**
