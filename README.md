@@ -41,11 +41,17 @@ Links to useful code.
 
 * http://www.jquerybyexample.net/2012/06/jquery-cookies-get-set-and-delete.html?m=1
 
+### Css / Flexbox
+
+* http://bulma.io/
+
+
 ### Editor
 
 * https://github.com/ianstormtaylor/slate/
 * https://github.com/facebook/draft-js
 * https://microsoft.github.io/monaco-editor/ **Code**
+
 
 ### Effects
 
@@ -70,6 +76,7 @@ Links to useful code.
 ### Email Design
 
 * https://mjml.io/
+* https://github.com/wildbit/postmark-templates
 
 ### Forms
 
