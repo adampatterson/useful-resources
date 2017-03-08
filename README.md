@@ -265,6 +265,7 @@ Links to useful code.
 * http://brm.io/jquery-match-height/ **Match Height**
 * https://github.com/christinecha/react-redux-sass-boilerplate
 * https://github.com/prasmussen/gdrive **Command Line Google Drive**
+* https://github.com/paulirish/git-open **Opens Git URL in the browser from the Command line**
 
 ### Exit Popups
 * https://github.com/carlsednaoui/ouibounce
@@ -347,10 +348,18 @@ Links to useful code.
 
 
 ## Applications
+
 * https://local.getflywheel.com/
 
 ## PHP Scripts
+
 * https://github.com/avalanche123/Imagine
 * https://github.com/jwage/purl
 * https://github.com/justinwalsh/daux.io
 * https://github.com/sesser/Instaphp
+
+## Education
+
+* https://gettinggit.com/ **Git**
+* https://laracasts.com/ **Laravel / Dev stack**
+* https://serversforhackers.com/ **Ops**
