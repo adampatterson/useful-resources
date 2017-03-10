@@ -51,6 +51,7 @@ Links to useful code.
 * https://github.com/ianstormtaylor/slate/
 * https://github.com/facebook/draft-js
 * https://microsoft.github.io/monaco-editor/ **Code**
+* https://quilljs.com/
 
 
 ### Effects
