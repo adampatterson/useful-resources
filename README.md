@@ -192,6 +192,9 @@ Links to useful code.
 * http://codeseven.github.io/toastr/ **Will be in Bootstrap 4**
 * http://carlosroso.com/notyf/
 
+### React UI
+* http://react-toolbox.com/
+* http://dev.office.com/fabric
 
 ### Sorting
 
