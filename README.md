@@ -263,6 +263,7 @@ Links to useful code.
 * https://github.com/the-control-group/voyager **Admin**
 * https://github.com/SammyK/LaravelFacebookSdk **Facebook SDK**
 * https://github.com/artesaos/defender
+* https://github.com/viacreative/sudo-su **Login as other users**
 
 ## Notes and Reading
 
