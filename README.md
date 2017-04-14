@@ -107,6 +107,7 @@ Links to useful code.
 * http://ashleydw.github.io/lightbox/ **Bootstrap Modals**
 * http://www.frescojs.com/ **LightBox**
 * https://feimosi.github.io/baguetteBox.js/ **LightBox**
+* https://henrygd.me/bigpicture/ **LightBox**
  
 
 ### General
