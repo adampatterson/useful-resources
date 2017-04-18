@@ -229,9 +229,10 @@ Links to useful code.
 * https://github.com/kraken-io/gulp-kraken
 
 
-## Applications
+## Applications and Tools
 
 * https://local.getflywheel.com/
+* https://stedolan.github.io/jq/ **Terminal JSON Viewer**
 
 ## CMS's
 
