@@ -177,6 +177,7 @@ Links to useful code.
 * http://dimsemenov.com/plugins/magnific-popup/
 * http://noelboss.github.io/featherlight/
 * http://fancybox.net/
+* http://t4t5.github.io/sweetalert/ **Alert**
 
 
 ### MVC Stuff
