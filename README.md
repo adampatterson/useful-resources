@@ -309,6 +309,7 @@ Links to useful code.
 * https://github.com/jwage/purl
 * https://github.com/justinwalsh/daux.io
 * https://github.com/sesser/Instaphp
+* https://github.com/rezozero/php-markdown-extra
 
 ## WordPress Plugins
 
