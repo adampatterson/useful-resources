@@ -266,6 +266,7 @@ Links to useful code.
 * https://github.com/SammyK/LaravelFacebookSdk **Facebook SDK**
 * https://github.com/artesaos/defender
 * https://github.com/viacreative/sudo-su **Login as other users**
+* https://github.com/Cyber-Duck/laravel-wp-api **WordPress API Wrapper**
 
 ## Notes and Reading
 
