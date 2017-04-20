@@ -100,6 +100,7 @@ Links to useful code.
 * http://flickity.metafizzy.co/
 * http://responsiveslides.com/
 * https://github.com/djyde/PureSlider
+* https://github.com/dimsemenov/PhotoSwipe
 * http://photoswipe.com/
 * https://github.com/blueimp/Gallery
 * http://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/
@@ -171,6 +172,7 @@ Links to useful code.
 * https://github.com/flyfei/CustomMenu
 * http://codyhouse.co/demo/responsive-sidebar-navigation/
 * http://github.hubspot.com/shepherd/docs/welcome/ **Guided Tour**
+* https://slideout.js.org/ **Slide Out Menu**
 
 
 ### Modal
