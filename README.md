@@ -73,6 +73,7 @@ Links to useful code.
 * http://tympanus.net/Development/CardExpansion/ **Card Expansion**
 * https://codyhouse.co/demo/page-scroll-effects/scaledown.html
 * http://abpetkov.github.io/switchery/ **IOS Switches**
+* https://scrollrevealjs.org/
 
 ### Email Design
 
