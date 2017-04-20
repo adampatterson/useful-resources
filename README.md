@@ -152,7 +152,7 @@ Links to useful code.
 * https://github.com/melanke/Watch.JS/
 * https://github.com/kriskowal/q **Promice Library**
 * https://github.com/manuelbieh/Geolib **GeoLib**
-
+* http://is.js.org/ **Check types, regexps, presence, time and more**
 
 ### Menu
 
@@ -310,6 +310,7 @@ Links to useful code.
 * https://github.com/justinwalsh/daux.io
 * https://github.com/sesser/Instaphp
 * https://github.com/rezozero/php-markdown-extra
+* https://github.com/zendframework/zend-stratigility
 
 ## WordPress Plugins
 
