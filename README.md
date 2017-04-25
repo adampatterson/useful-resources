@@ -271,6 +271,7 @@ Links to useful code.
 * https://github.com/artesaos/defender
 * https://github.com/viacreative/sudo-su **Login as other users**
 * https://github.com/Cyber-Duck/laravel-wp-api **WordPress API Wrapper**
+* https://github.com/tightenco/jigsaw **Static Site Generator**
 
 ## Notes and Reading
 
