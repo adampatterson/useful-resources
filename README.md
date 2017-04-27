@@ -238,6 +238,7 @@ Links to useful code.
 
 * https://local.getflywheel.com/
 * https://stedolan.github.io/jq/ **Terminal JSON Viewer**
+* https://github.com/Meadowcottage/playcode-desktop **Desktop client for Playcode Online Javascript Editor**
 
 ## CMS's
 
