@@ -156,6 +156,7 @@ Links to useful code.
 * https://github.com/manuelbieh/Geolib **GeoLib**
 * http://is.js.org/ **Check types, regexps, presence, time and more**
 * https://github.com/mzabriskie/axios **Promise based HTTP client**
+* https://github.com/ErlendEllingsen/pull-to-reload **Pull To Reload**
 
 ### Menu
 
