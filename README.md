@@ -116,6 +116,7 @@ Links to useful code.
 
 * http://imakewebthings.com/jquery-waypoints/
 * http://kiro.me/projects/fuse.html **Fuzzy Search**
+* https://abouolia.github.io/sticky-sidebar/ **Autocomplete Search**
 * https://github.com/kriskowal/q **Promise**
 * http://getfuelux.com/ **Bootstrap UX**
 * https://github.com/atom/electron **Build cross platform desktop apps with web technologies**
@@ -124,8 +125,9 @@ Links to useful code.
 * https://github.com/callmecavs/bricks.js **Masonry Alternative**
 * https://haltu.github.io/muuri/ **Responsive, sortable, filterable and draggable grid layouts / Masonry**
 * http://iamceege.github.io/tooltipster/ **Tool Tips**
+* https://atomiks.github.io/tippyjs/ **Tool Tips**
 * http://kushagragour.in/lab/hint/ **Tool Tips**
-* http://dotdotdot.frebsite.nl/ **DotDotDot**
+* http://dotdotdot.frebsite.nl/ **DotDotDot or ...**
 * https://github.com/jasny/jquery.smartbanner **Smart Banners**
 * https://github.com/devbridge/jQuery-Autocomplete **Autocomplete**
 * http://github.hubspot.com/tether/
@@ -166,6 +168,7 @@ Links to useful code.
 * http://ascott1.github.io/bigSlide.js/
 * http://slicknav.com/
 * http://tympanus.net/Development/SidebarTransitions/ **Sidebar**
+* https://abouolia.github.io/sticky-sidebar/ **Sidebar**
 * http://www.berriart.com/sidr/ **Sidebar**
 * http://www.christopheryee.ca/pushy/ **Sidebar**
 * https://github.com/Yalantis/FoldingTabBar.iOS
@@ -271,6 +274,10 @@ Links to useful code.
 * https://github.com/artesaos/defender
 * https://github.com/viacreative/sudo-su **Login as other users**
 * https://github.com/Cyber-Duck/laravel-wp-api **WordPress API Wrapper**
+* https://github.com/laracademy/interactive-make **Interactive Make**
+* https://github.com/spatie/laravel-backup
+* https://github.com/fideloper/TrustedProxy
+* https://github.com/spatie/laravel-missing-page-redirector#usage **URL Redirect**
 
 ## Notes and Reading
 
@@ -378,4 +385,4 @@ Links to useful code.
 * https://github.com/christinecha/react-redux-sass-boilerplate
 * https://github.com/prasmussen/gdrive **Command Line Google Drive**
 * https://github.com/paulirish/git-open **Opens Git URL in the browser from the Command line**
-* https://hsnaydd.github.io/moveTo/demo/ **Scroll to location**
+* https://github.com/hsnaydd/moveTo/ **Scroll to location**
