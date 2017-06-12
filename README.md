@@ -157,6 +157,8 @@ Links to useful code.
 * https://github.com/kriskowal/q **Promice Library**
 * https://github.com/manuelbieh/Geolib **GeoLib**
 * http://is.js.org/ **Check types, regexps, presence, time and more**
+* https://github.com/mzabriskie/axios **Promise based HTTP client**
+* https://github.com/ErlendEllingsen/pull-to-reload **Pull To Reload**
 
 ### Menu
 
@@ -240,6 +242,7 @@ Links to useful code.
 
 * https://local.getflywheel.com/
 * https://stedolan.github.io/jq/ **Terminal JSON Viewer**
+* https://github.com/Meadowcottage/playcode-desktop **Desktop client for Playcode Online Javascript Editor**
 
 ## CMS's
 
@@ -274,10 +277,11 @@ Links to useful code.
 * https://github.com/artesaos/defender
 * https://github.com/viacreative/sudo-su **Login as other users**
 * https://github.com/Cyber-Duck/laravel-wp-api **WordPress API Wrapper**
-* https://github.com/laracademy/interactive-make **Interactive Make**
+* https://github.com/tightenco/jigsaw **Static Site Generator**
 * https://github.com/spatie/laravel-backup
 * https://github.com/fideloper/TrustedProxy
 * https://github.com/spatie/laravel-missing-page-redirector#usage **URL Redirect**
+* https://github.com/laracademy/interactive-make **Interactive Make**
 
 ## Notes and Reading
 
