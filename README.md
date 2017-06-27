@@ -159,6 +159,8 @@ Links to useful code.
 * http://is.js.org/ **Check types, regexps, presence, time and more**
 * https://github.com/mzabriskie/axios **Promise based HTTP client**
 * https://github.com/ErlendEllingsen/pull-to-reload **Pull To Reload**
+* http://alexcorvi.github.io/anchorme.js/ **Convert urls to links**
+* https://mburakerman.github.io/hrjs/ **Highlight and Replace text**
 
 ### Menu
 
@@ -205,6 +207,10 @@ Links to useful code.
 ### React UI
 * http://react-toolbox.com/
 * http://dev.office.com/fabric
+
+### Sketch
+* https://github.com/timuric/Content-generator-sketch-plugin **Content Generator**
+* https://mludowise.github.io/Sketch-Plugin-Manager/ **Plugin Manager**
 
 ### Sorting
 
