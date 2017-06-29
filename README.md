@@ -289,6 +289,7 @@ Links to useful code.
 * https://github.com/fideloper/TrustedProxy
 * https://github.com/spatie/laravel-missing-page-redirector#usage **URL Redirect**
 * https://github.com/laracademy/interactive-make **Interactive Make**
+* https://github.com/nicolaslopezj/searchable **Search**
 
 ## Notes and Reading
 
