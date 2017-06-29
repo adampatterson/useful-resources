@@ -110,7 +110,7 @@ Links to useful code.
 * http://www.frescojs.com/ **LightBox**
 * https://feimosi.github.io/baguetteBox.js/ **LightBox**
 * https://henrygd.me/bigpicture/ **LightBox**
- 
+
 
 ### General
 
@@ -204,11 +204,19 @@ Links to useful code.
 * http://codeseven.github.io/toastr/ **Will be in Bootstrap 4**
 * http://carlosroso.com/notyf/
 
+### React Packages
+
+* https://rangle.github.io/redux-beacon/
+* https://github.com/milworm/react-progress-2
+* https://github.com/christinecha/react-redux-sass-boilerplate
+
 ### React UI
+
 * http://react-toolbox.com/
 * http://dev.office.com/fabric
 
 ### Sketch
+
 * https://github.com/timuric/Content-generator-sketch-plugin **Content Generator**
 * https://mludowise.github.io/Sketch-Plugin-Manager/ **Plugin Manager**
 * https://abynim.github.io/UserFlows/
@@ -340,14 +348,13 @@ Links to useful code.
 * https://github.com/jonathanbardo/WP-Image-Hotspot
 * https://facetwp.com/ **Premium Search**
 * https://www.admincolumns.com/ **Premium Admin UI**
-* https://github.com/airesvsg/wp-rest-api-cache 
+* https://github.com/airesvsg/wp-rest-api-cache
 * https://github.com/airesvsg/acf-to-rest-api
 
 ## Utility
 
 * http://refreshless.com/nouislider/
 * http://www.gayadesign.com/diy/queryloader2-preload-your-images-with-ease/
-* https://github.com/milworm/react-progress-2
 * http://xoxco.com/projects/code/breakpoints/
 * https://github.com/gajus/contents#table-of-contents-toc-generator-usage-examples **TOC Generator**
 * https://github.com/FezVrasta/bootstrap-material-design
@@ -394,7 +401,6 @@ Links to useful code.
 * https://dollarshaveclub.github.io/reframe.js/ **Responsive**
 * https://kimmobrunfeldt.github.io/progressbar.js/ **Progress Bar**
 * http://brm.io/jquery-match-height/ **Match Height**
-* https://github.com/christinecha/react-redux-sass-boilerplate
 * https://github.com/prasmussen/gdrive **Command Line Google Drive**
 * https://github.com/paulirish/git-open **Opens Git URL in the browser from the Command line**
 * https://github.com/hsnaydd/moveTo/ **Scroll to location**
