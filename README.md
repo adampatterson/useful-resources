@@ -161,6 +161,8 @@ Links to useful code.
 * https://github.com/ErlendEllingsen/pull-to-reload **Pull To Reload**
 * http://alexcorvi.github.io/anchorme.js/ **Convert urls to links**
 * https://mburakerman.github.io/hrjs/ **Highlight and Replace text**
+* https://github.com/dleitee/strman **String Manipulation with Javascript**
+* https://ilkeryilmaz.github.io/timelinejs/ **Time Line**
 
 ### Menu
 
@@ -404,3 +406,4 @@ Links to useful code.
 * https://github.com/prasmussen/gdrive **Command Line Google Drive**
 * https://github.com/paulirish/git-open **Opens Git URL in the browser from the Command line**
 * https://github.com/hsnaydd/moveTo/ **Scroll to location**
+* https://shobhitsharma.github.io/embedo/ **oEmbed**
