@@ -280,7 +280,8 @@ Links to useful code.
 * https://github.com/austinkregel/Menu
 * https://github.com/serverfireteam/panel
 * https://spatie.be/opensource/laravel
-* https://github.com/FrozenNode/Laravel-Administrator
+* https://github.com/FrozenNode/Laravel-Administrator **Admin Interface**
+* https://laravelvoyager.com/ **Admin Interface**
 * https://github.com/artesaos/seotools
 * https://github.com/laraedit/laraedit-docker
 * https://github.com/kraken-io/kraken-php
