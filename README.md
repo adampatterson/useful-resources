@@ -302,6 +302,7 @@ Links to useful code.
 * https://github.com/laracademy/interactive-make **Interactive Make**
 * https://github.com/nicolaslopezj/searchable **Search**
 * https://github.com/appstract/laravel-blade-directives **Blade Directives**
+* https://github.com/ConsoleTVs/Bootpack **Laravel 5 package bootstraper**
 
 ## Notes and Reading
 
