@@ -18,6 +18,7 @@ Links to useful code.
 * http://connoratherton.com/loaders
 * http://ricostacruz.com/jquery.transit/
 * https://github.com/Popmotion/popmotion
+* http://emersonthompson.com.br/zoomove/ **Zoom + Move**
 
 ### Audio/Video
 
