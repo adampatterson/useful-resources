@@ -45,7 +45,7 @@ Links to useful code.
 ### Css / Flex-box
 
 * http://bulma.io/
-
+* https://daneden.github.io/animate.css/ **Just-add-water CSS animations**
 
 ### Editor
 
@@ -138,6 +138,8 @@ Links to useful code.
 * https://codyhouse.co/gem/products-comparison-table/
 * http://code.octopuscreative.com/fancyselect/ **Fancy Select**
 * https://github.com/localForage/localForage **Offline storage**
+* https://popper.js.org/ **Tool tips**
+* https://shopify.github.io/draggable/ **Deagable**
 
 ### Icons/Fonts
 
@@ -164,6 +166,7 @@ Links to useful code.
 * https://mburakerman.github.io/hrjs/ **Highlight and Replace text**
 * https://github.com/dleitee/strman **String Manipulation with Javascript**
 * https://ilkeryilmaz.github.io/timelinejs/ **Time Line**
+* https://github.com/picturepan2/devices.css **Credit Card**
 
 ### Menu
 
@@ -206,6 +209,7 @@ Links to useful code.
 
 * http://codeseven.github.io/toastr/ **Will be in Bootstrap 4**
 * http://carlosroso.com/notyf/
+* https://pushjs.org/
 
 ### React Packages
 
@@ -227,7 +231,6 @@ Links to useful code.
 ### Sorting
 
 * https://mixitup.kunkalabs.com/
-
 
 ### Styles and UI
 
