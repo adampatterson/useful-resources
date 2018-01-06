@@ -216,6 +216,7 @@ Links to useful code.
 * https://rangle.github.io/redux-beacon/
 * https://github.com/milworm/react-progress-2
 * https://github.com/christinecha/react-redux-sass-boilerplate
+* https://github.com/nfl/react-helmet
 
 ### React UI
 
@@ -370,6 +371,7 @@ Links to useful code.
 * https://github.com/ded/bonzo
 * http://gionkunz.github.io/chartist-js/examples.html **Chars**
 * https://github.com/cferdinandi/smooth-scroll
+* https://michalsnik.github.io/aos/ **Animated on Scroll**
 * https://github.com/brianreavis/sifter.js
 * http://www.berriart.com/sidr/ **Sidebar**
 * http://csouza.me/jQuery-Simple-Timer/ **Count down timer**
