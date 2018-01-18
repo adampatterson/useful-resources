@@ -140,6 +140,7 @@ Links to useful code.
 * https://github.com/localForage/localForage **Offline storage**
 * https://popper.js.org/ **Tool tips**
 * https://shopify.github.io/draggable/ **Deagable**
+* https://uppy.io/ **File Uplaod**
 
 ### Icons/Fonts
 
@@ -232,6 +233,7 @@ Links to useful code.
 ### Sorting
 
 * https://mixitup.kunkalabs.com/
+* https://github.com/javve/list.js
 
 ### Styles and UI
 
