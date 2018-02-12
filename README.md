@@ -315,6 +315,10 @@ Links to useful code.
 * https://github.com/appstract/laravel-blade-directives **Blade Directives**
 * https://github.com/ConsoleTVs/Bootpack **Laravel 5 package bootstraper**
 
+## Maps
+
+* https://github.com/hpneo/gmaps
+
 ## Notes and Reading
 
 * https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
