@@ -199,6 +199,7 @@ Links to useful code.
 * http://noelboss.github.io/featherlight/
 * http://fancybox.net/
 * http://t4t5.github.io/sweetalert/ **Alert**
+* http://vodkabears.github.io/remodal/#
 
 
 ### MVC Stuff
