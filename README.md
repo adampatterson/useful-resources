@@ -191,6 +191,7 @@ Links to useful code.
 * http://codyhouse.co/demo/responsive-sidebar-navigation/
 * http://github.hubspot.com/shepherd/docs/welcome/ **Guided Tour**
 * https://slideout.js.org/ **Slide Out Menu**
+* https://github.com/bootstrapstudio/bootstrap-better-nav
 
 
 ### Modal
