@@ -365,6 +365,10 @@ Links to useful code.
 * https://github.com/rezozero/php-markdown-extra
 * https://github.com/zendframework/zend-stratigility
 
+## Server Stuff
+
+* https://certbot.eff.org/
+
 ## WordPress Plugins
 
 * https://github.com/shield-9/opcache-dashboard
