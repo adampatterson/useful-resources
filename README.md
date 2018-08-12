@@ -317,6 +317,7 @@ Links to useful code.
 * https://github.com/nicolaslopezj/searchable **Search**
 * https://github.com/appstract/laravel-blade-directives **Blade Directives**
 * https://github.com/ConsoleTVs/Bootpack **Laravel 5 package bootstraper**
+* https://github.com/cybercog/laravel-love **likes & dislikes**
 
 ## Maps
 
