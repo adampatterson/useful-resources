@@ -36,6 +36,7 @@ Links to useful code.
 * http://pxgrid.github.io/js-flipsnap/ **Touch**
 * http://kenwheeler.github.io/slick/
 * http://meandmax.github.io/lory/ **Touch**
+* https://splidejs.com/
 
 
 ### Cookies
